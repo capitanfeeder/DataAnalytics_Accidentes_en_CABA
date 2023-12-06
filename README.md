@@ -47,11 +47,30 @@ Durante la ejecución del proyecto, se han generado los siguientes archivos:
    - Creación de tablas para analizar información relacionada con el lugar de los siniestros viales, el vehículo involucrado, el número de víctimas, y otros aspectos vinculados con las fechas.
    - Análisis de datos de víctimas para comprender características como edad, sexo, tipo de vehículo de la víctima, entre otros.
 
-   De los gráficos se pueden extraer conclusiones como:
+   De los gráficos se pueden realizar observaciones como las siguientes:
 
    <p align="center">     <img src= "Imágenes/comuna.png" </p>
 
-   - La comuna 1 es la que tiene mayor cantidad de siniestros viales debido a que está compuesta por barrios como Retiro, San Nicolás y Puerto Madero, los cuales son zonas de alto tránsito vehicular por ser zonas turísticas y de oficinas.
+   - La comuna 1 es la que tiene mayor cantidad de siniestros viales debido a que está compuesta por barrios como Retiro, San Nicolás y Puerto Madero, los cuales son áreas de alto tránsito vehicular por ser zonas turísticas y de oficinas. 
+   <p align="center">     <img src= "Imágenes/via.png" </p>
+
+   - La mayor cantidad de siniestros viales se da en Avenidas
+
+   <div align="center">
+    <img src="Imágenes/vehiculo_acusado.png" alt="Vehículo Acusado">
+    <img src="Imágenes/vehiculo_victima.png" alt="Vehículo Víctima">
+</div>
+
+- En gran medida los accidentes son ocasionados por automovilistas y las víctimas son motociclistas.
+
+<p align="center">     <img src= "Imágenes/sexo.png" </p>
+
+- En lo que a sexo concierne, los hombres son los que más se ven involucrados en siniestros viales.
+
+<p align="center">     <img src= "Imágenes/rango_etario.png" </p>
+
+- Las personas entre 19 y 39 años son las más propensas a protagonizar accidentes de tránsito.
+
 
 4. **Dashboard en Power BI**:
    El dashboard en Power BI consta de diversas páginas que presentan información relevante sobre los siniestros viales y sus víctimas. Detallaremos cada una de estas páginas:
